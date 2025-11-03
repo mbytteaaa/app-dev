@@ -6,7 +6,7 @@
 
 
 <p> Gravity Falls is a weird cartoon shows with comforting plot, this cartoon explains the importance of family and how mystery universe is</p>
-  <h5> here are some of my favorite cartoon series </h5>
+  <h4> here are some of my favorite cartoon series </h4>
 
 <ul>
   <li>Gravity Falls</li>
